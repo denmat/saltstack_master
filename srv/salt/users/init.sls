@@ -2,5 +2,4 @@
 {{user}}:
   user.present:
     - uid: {{uid}}
-    - home
 {% endfor %}
